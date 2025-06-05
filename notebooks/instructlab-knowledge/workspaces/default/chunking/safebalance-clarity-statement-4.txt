@@ -1,0 +1,5 @@
+No bank overdraft fees
+We don't charge overdraft fees on this account. To help you avoid overdrawing your account, transactions will be declined and returned unpaid when you don't have enough money in your account.
+· If this happens, you won't be charged a bank overdraft fee, but the merchant or third party could charge you a fee. For example, you may be charged a late fee if the payment isn't received on time.
+· An owner can set up email or mobile alerts to notify you when you have a low balance in your account or when items aren't paid. (We don't charge for this service but your mobile carrier's message and data fees may apply. Delivery of alerts may be affected or delayed by your mobile carrier's coverage.)
+While this account prevents you from overdrawing in most cases, there may still be times when your account could have a negative balance, but we won't charge an overdraft fee. This could happen in the following ways:

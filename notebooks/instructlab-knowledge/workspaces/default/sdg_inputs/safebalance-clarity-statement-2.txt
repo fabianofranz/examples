@@ -1,0 +1,9 @@
+ATM fees
+Bank of America ATMs
+No ATM fee
+For deposits, withdrawals, transfers or balance inquiries
+Non-Bank of America ATMs
+$2.50
+In the U.S., plus any fee charged by the ATM's operator
+$5.00
+Outside the U.S., plus any fee charged by the ATM's operator

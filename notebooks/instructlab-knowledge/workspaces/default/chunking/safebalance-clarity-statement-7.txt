@@ -1,0 +1,8 @@
+How we post transactions
+The way we post transactions impacts your account balance. At the end of each business day, we'll group transactions received that day into categories before posting them. Below are the most common categories, and common transaction types in each, in the order that they generally post to your account. Keep in mind that transactions that are still processing may lower your available balance.
+· Deposits: Added from highest to lowest dollar amount.
+· Many debit transactions: Subtracted based on the date and time you made them. If our system doesn't receive date and time of the transaction, they are posted and subtracted from highest to lowest dollar amount. These include one-time and recurring debit card transactions, one-time transfers and ATM withdrawals.
+· Most other electronic payments and preauthorized transfers: Subtracted from highest to lowest dollar amount. These include scheduled transfers, online bill payments and preauthorized payments that use your account number.
+• Most fees:
+Subtracted from highest to lowest dollar amounts.
+Reminder: Paper checks will not work with this account.
